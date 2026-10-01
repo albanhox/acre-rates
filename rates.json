@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T18:26:22.074Z",
-  "asOf": "2026-09-24",
+  "updated": "2026-10-01T18:53:05.185Z",
+  "asOf": "2026-10-01",
   "source": "Freddie Mac Primary Mortgage Market Survey and U.S. Treasury, via FRED (Federal Reserve Bank of St. Louis)",
   "note": "National averages for informational use only. Not an offer to lend. Your rate depends on credit, down payment, property and program.",
   "items": [
@@ -9,10 +9,10 @@
       "name": "30-year fixed",
       "sub": "National average, Freddie Mac",
       "period": "week",
-      "rate": 7.03,
-      "prev": 6.95,
-      "change": 0.08,
-      "asOf": "2026-09-24",
+      "rate": 7.28,
+      "prev": 7.03,
+      "change": 0.25,
+      "asOf": "2026-10-01",
       "series": "MORTGAGE30US"
     },
     {
@@ -20,10 +20,10 @@
       "name": "15-year fixed",
       "sub": "National average, Freddie Mac",
       "period": "week",
-      "rate": 6.42,
-      "prev": 6.26,
-      "change": 0.16,
-      "asOf": "2026-09-24",
+      "rate": 6.6,
+      "prev": 6.42,
+      "change": 0.18,
+      "asOf": "2026-10-01",
       "series": "MORTGAGE15US"
     },
     {
@@ -31,10 +31,10 @@
       "name": "10-year Treasury",
       "sub": "The benchmark mortgage rates follow",
       "period": "day",
-      "rate": 5.24,
-      "prev": 5.17,
-      "change": 0.07,
-      "asOf": "2026-09-28",
+      "rate": 5.26,
+      "prev": 5.24,
+      "change": 0.02,
+      "asOf": "2026-09-29",
       "series": "DGS10"
     }
   ]
