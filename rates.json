@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T18:25:10.896Z",
+  "updated": "2026-11-02T22:18:59.428Z",
   "asOf": "2026-10-29",
   "source": "Freddie Mac Primary Mortgage Market Survey and U.S. Treasury, via FRED (Federal Reserve Bank of St. Louis)",
   "note": "National averages for informational use only. Not an offer to lend. Your rate depends on credit, down payment, property and program.",
@@ -31,10 +31,10 @@
       "name": "10-year Treasury",
       "sub": "The benchmark mortgage rates follow",
       "period": "day",
-      "rate": 4.98,
-      "prev": 5.05,
-      "change": -0.07,
-      "asOf": "2026-10-29",
+      "rate": 4.94,
+      "prev": 4.98,
+      "change": -0.04,
+      "asOf": "2026-10-30",
       "series": "DGS10"
     }
   ]
